@@ -1,6 +1,5 @@
-# karthick — Professional Profile Site
-
-Source for my personal profile site, hosted via **GitHub Pages**.
+# Karthick Govindasamy
+#Professional Profile Site - hosted via **GitHub Pages**.
 
 ## Pages
 
@@ -29,9 +28,7 @@ Source for my personal profile site, hosted via **GitHub Pages**.
 ## Developing
 
 No build step required — pure HTML and CSS.
-Open any `.html` file in a browser, or use the
-[Live Preview](https://marketplace.visualstudio.com/items?itemName=ms-vscode.live-server)
-extension in VS Code.
+<< Open any `.html` file in a browser or use [Live Preview](https://marketplace.visualstudio.com/items?itemName=ms-vscode.live-server) extension in VS Code >>
 
 ## Content guidelines
 
