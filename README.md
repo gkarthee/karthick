@@ -5,7 +5,7 @@
 
 | Page | Description |
 |---|---|
-| [About](index.html) | Landing page, bio, and skills |
+| [About](index.html) | Landing page, Bio, and skills |
 | [Work](work/index.html) | Projects and professional experience |
 | [Open Source](opensource/index.html) | Contributions and maintained repos |
 | [Writing](writing/index.html) | Articles, essays, and technical posts |
